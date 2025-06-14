@@ -1,0 +1,11 @@
+{
+    "name": "RED SENTINAL",
+    "description": "Clad in red and blue with a bold “S” insignia, Red Sentinel is the guardian of Skyspire City. With superhuman strength and the ability to fly faster than a jet, he defends against alien invasions and rogue AI. His moral compass is unbreakable, making him the heart of the Hero Syndicate.",
+    "image": "https://ipfs.io/ipfs/QmWmk4BayEYEsmPNvdEGKgVB5w3aXCGwDLzdoyVRU8ySQa",
+    "attributes": [
+        {
+            "trait_type": "flight",
+            "value": 100
+        }
+    ]
+}
