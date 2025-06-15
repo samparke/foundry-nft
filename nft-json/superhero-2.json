@@ -1,7 +1,7 @@
 {
     "name": "VOLT BAT",
     "description": "A fusion of mystique and raw electricity, Volt Bat uses lightning-fast reflexes and electrified gadgets to patrol the neon alleys of Electrohaven. The golden lightning bolt on his armor is both a warning and a weapon. By day, he’s a tech entrepreneur; by night, a storm in the dark.",
-    "image": "https://ipfs.io/ipfs/QmRHsEN3Pv2C4wRpW4x7qLQdsyP8t47VZZhascue5UHBsu",
+    "image": "ipfs://QmRHsEN3Pv2C4wRpW4x7qLQdsyP8t47VZZhascue5UHBsu",
     "attributes": [
         {
             "trait_type": "electricity",

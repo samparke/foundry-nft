@@ -1,7 +1,7 @@
 {
     "name": "STARSHADE",
     "description": "Operating under the cloak of night, Starshade is a stealthy vigilante who channels cosmic energy through the star on his chest. His purple and green suit is equipped with cloaking tech, and his tactical brilliance makes him the Syndicate’s top infiltration expert. Criminals fear the glint of his golden star in the shadows.",
-    "image": "https://ipfs.io/ipfs/QmUMrGWgiHA4kR4aBnAzX8XMesSJWxEEMhcYWPQxN1K3iU",
+    "image": "ipfs://QmUMrGWgiHA4kR4aBnAzX8XMesSJWxEEMhcYWPQxN1K3iU",
     "attributes": [
         {
             "trait_type": "cosmic",
